@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChiyukiSakai
-- 👀 I’m interested in python and ML.
-- 🌱 I’m currently learning python.
+- 👀 I’m BIM engineer.
+- 🌱 skill: Archicad, Revit, bim add-on development, c++, c#, python, etc.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
